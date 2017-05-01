@@ -1,6 +1,6 @@
-#Humanisti Koodaa 
+# Humanisti Koodaa 
 
-##Tähän tulee humanistiKoodaa nettisivut ja blogi (ehkä).
+## Tähän tulee humanistiKoodaa nettisivut ja blogi (ehkä).
 
 
 
